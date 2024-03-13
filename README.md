@@ -2,6 +2,7 @@
 This worker service run a job in a schedule time managed by Quartz.
 Read a txt file and save the data to SqlServer
 - C#
+- .Net 6
 - SqlServer
 - XUnit
 - Quartz
